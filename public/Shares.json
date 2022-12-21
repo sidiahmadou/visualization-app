@@ -1,0 +1,44 @@
+[
+    {
+        "shares":
+        {
+            "Common":[
+                {"valuation":7000000,"price":3},
+                {"valuation":15000000,"price":7},
+                {"valuation":20000000,"price":11},
+                {"valuation":27000000,"price":13},
+                {"valuation":32000000,"price":17},
+                {"valuation":30000008,"price":21},
+                {"valuation":40000005,"price":25},
+                {"valuation":50000004,"price":27},
+                {"valuation":60000002,"price":29},
+                {"valuation":70000001,"price":33}
+            ],
+            "Series A Preferred":[
+                {"valuation":9000000,"price":5},
+                {"valuation":18000000,"price":7},
+                {"valuation":24000000,"price":9},
+                {"valuation":31000000,"price":11},
+                {"valuation":38000000,"price":15},
+                {"valuation":45000000,"price":19},
+                {"valuation":54000000,"price":23},
+                {"valuation":61000000,"price":27},
+                {"valuation":68000000,"price":31},
+                {"valuation":73000000,"price":33}
+            ],
+            "Series A1 Preferred":[
+                {"valuation":9000000,"price":3},
+                {"valuation":16000000,"price":5},
+                {"valuation":21000000,"price":7},
+                {"valuation":28000000,"price":11},
+                {"valuation":36000000,"price":15},
+                {"valuation":45000000,"price":17},
+                {"valuation":51000000,"price":19},
+                {"valuation":56000000,"price":23},
+                {"valuation":64000000,"price":25},
+                {"valuation":69000000,"price":27}
+            ]
+        }    
+    }
+]
+
