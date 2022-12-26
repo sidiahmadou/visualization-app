@@ -1,4 +1,4 @@
-# Visualisation app using js & react
+# Visualisation app using js & react.
 
 <img src="/public/chart.png" height="300" width="400">
 This project was bootstrapped with Create React App.
